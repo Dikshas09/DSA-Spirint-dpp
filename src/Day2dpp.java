@@ -1,5 +1,5 @@
 import java.util.*;
-public class Day1dpp {
+public class Day2dpp {
     public static void main(String[] arg){
         Scanner sc= new Scanner(System.in);
 // for printing alpha inter.....................................................
