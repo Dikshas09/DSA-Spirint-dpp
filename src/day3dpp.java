@@ -1,5 +1,5 @@
 import java.util.*;
-public class day3 {
+public class day3dpp {
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
 // to get the sum of even no. in a digit......................................................
@@ -70,8 +70,8 @@ public class day3 {
         System.out.println("total no of prime are = "+tn);
 // to get the sum of this series 1 - 2 + 3 - 4 + 5 - 6… upto ‘n’.....................................................................
         int ne=0,no=0;
-        int n5= sc.nextInt();
-        for(int i=1;i<n5;i++){
+        int n10= sc.nextInt();
+        for(int i=1;i<n10;i++){
             if(i%2==0){
                 ne+=i;
             }

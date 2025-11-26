@@ -1,7 +1,7 @@
 import java.util.*;
 public class Day2dpp {
     public static void main(String[] arg){
-        Scanner sc= new Scanner(System.in);
+     /*   Scanner sc= new Scanner(System.in)[;0
 // for printing alpha inter.....................................................
          int n2= sc.nextInt();
         for(int i=0; i<n2;i++){
@@ -79,6 +79,6 @@ public class Day2dpp {
         for(int i=1;i<nf;i++){
             f=f*i;
         }
-        System.out.println(f);
+        System.out.println(f);*/
     }
 }

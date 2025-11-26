@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gu
 
 import java.util.*;
-public class Main {
+public class day1dpp {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 //for sum of digit......................................................
